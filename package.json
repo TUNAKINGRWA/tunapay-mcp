@@ -1,0 +1,13 @@
+{
+  "name": "tunapay-mcp",
+  "version": "1.0.0",
+  "description": "MCP server that lets your AI assistant pay with a TunaPay prepaid card. You approve every payment.",
+  "type": "commonjs",
+  "bin": { "tunapay-mcp": "index.js" },
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "model-context-protocol", "claude", "cursor", "payments", "virtual-card", "ai-agent"],
+  "homepage": "https://tunapay.ai",
+  "repository": { "type": "git", "url": "https://github.com/tunakingrwa/tunapay-mcp.git" },
+  "license": "MIT"
+}
